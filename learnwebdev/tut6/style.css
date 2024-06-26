@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+h1 {
+    color: #BB2201;
+    text-align: center;  
+    font-family: "Playwrite NZ", cursive; 
+    border: 8px solid blue;  /* Combined border properties */
+    padding: 10px; /* Fixed the space in 'px' */
+}
+.game {
+    border: 10px solid red;  /* Combined border properties */
+    color: purple;
+    font-family: "Playwrite NZ", cursive;
+    height: 35vh;
+    width: 72vw;
+}
+
+.list {
+    color: blue;
+    font-family: "Playwrite NZ", cursive;
+    border: 20px solid black;  /* Combined border properties */
+    padding: 100px; /* Fixed the space in 'px' */
+}
+.assasin {
+    color: #BB2201;
+    font-family: "Playwrite NZ", cursive;
+    border: 8px solid #BB2201;  /* Combined border properties */
+}
